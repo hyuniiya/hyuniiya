@@ -6,8 +6,8 @@
 ##### 🖋Tech Stacks🖋
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" />&nbsp
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/react-20232a.svg?style=flat-square&logo=react&logoColor=white" />&nbsp
 </div><br>
 
 ##### 📩Contact📩
