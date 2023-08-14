@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&size=24&pause=1000&color=E87293EA&background=2831FF00&center=true&vCenter=true&width=435&lines=Welcome+to+Juhyun's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ##### 💻Frontend Developer💻
-안녕하세요! 저는 프론트엔드 개발자로서, 편안하게 접근하고 자연스럽게 상호작용 할 수 있는 웹을 만들고자 노력하고 있습니다.
-
+안녕하세요! 저는 프론트엔드 개발자로서, 편안하게 접근하고 자연스럽게 상호작용 할 수 있는 웹을 만들고자 노력하고 있습니다!
 ##### 🖋Tech Stacks🖋
 <div style="display:flex; flex-direction:row;">
 <img src="https://img.shields.io/badge/html5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" />&nbsp
